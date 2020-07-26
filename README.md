@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-celalaygar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pham-tuan-85a78a17b/)](https://www.linkedin.com/in/pham-tuan-85a78a17b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pham-tuan-85a78a17b/)](https://www.linkedin.com/in/pham-tuan-85a78a17b/) 
